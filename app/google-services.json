@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "523560189269",
+    "project_id": "listofverbs-9d1c7",
+    "storage_bucket": "listofverbs-9d1c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523560189269:android:c7669ce221439b1a2903dc",
+        "android_client_info": {
+          "package_name": "com.mlr_apps.listofverbs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523560189269-ti05t38ortfinohhujetq3bpoaogqi71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnxrW7HTF34-zczAKJLGSo2yCbTnaK6b8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523560189269-ti05t38ortfinohhujetq3bpoaogqi71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
